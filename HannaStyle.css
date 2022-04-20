@@ -1,0 +1,168 @@
+* {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    background-color:rgb(246, 243, 225);
+}
+/* 1. navigation bar
+======================================== */
+nav {
+    position: relative;
+    display: flex;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgb(96, 94, 94);
+    height: 175px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+ color:black;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+.photo {
+   height: 150px;
+   float: left;
+   border-radius: 30%;
+}
+
+.nav-list {
+    width: 85%;
+    text-align: right;
+    font-size: 15pt;
+    margin-top: 110px;
+    margin-right: 15px;
+}
+.nav-link {
+    padding: 0px 8px;
+}
+
+nav,.headicon {
+    display: absolute;
+    right: 0px;
+    padding-top: 15px;
+}
+
+.current {
+    text-decoration: underline;
+}
+
+.icon,img {
+    height: 50px;
+}
+
+
+/* 2. header styles
+======================================== */
+header {
+    text-align: center;
+}
+
+.lastname {
+    color: rgba(7, 118, 20, .85);
+}
+
+p {
+    font-size: 14pt;
+    line-height: 1.1;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-indent: 50px;
+}
+
+h2 {
+    margin-left: 8px;
+    font-weight: bold;
+    color:rgba(9, 118, 25, 0.85);
+}
+
+/* 3. resume
+======================================== */
+
+.job-box {
+    max-width: 90%;
+    margin-left: 50px;
+}
+
+h4 {
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+
+.job-local {
+    font-style: italic;
+}
+
+.job-date {
+    float: right;
+    margin-right: 50px;
+}
+
+table{
+    margin-left: 50px;
+}
+.table-data, th {
+    vertical-align: top;
+    text-align: left;
+}
+
+.skills {
+    width: 20%;
+}
+
+.license, .edu {
+    width: 25%;
+    overflow: wrap;
+}
+
+.edu {
+    padding-left: 10px;
+}
+
+.date, .worc{
+    font-style: italic;
+}
+
+.uni {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.mail-line {
+    color:rgba(9, 118, 25, 0.85) !important;
+}
+
+/* 4. portfolio
+======================================== */
+
+/* 5. contact form
+======================================== */
+
+.email-form {
+    margin-left: 50px;
+    font-size: 14pt;
+    line-height: 20pt;
+}
+
+/* footer
+======================================== */
+footer{
+    text-align: center;
+    height: 100px;
+    background-color: rgba(9, 118, 25, 0.5);
+    font-size: 20pt;
+}
+
+h6 {
+    padding: 8pt;
+    margin: 0;
+}
