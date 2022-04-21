@@ -2,12 +2,12 @@
 /* 1. navigation bar
 ======================================== */
 nav {
-    position: relative;
+    position: fixed;
     display: flex;
     width: 100%;
     box-sizing: border-box;
     background-color: #000000;
-    height: 100px;
+    height: 175px;
 }
 
 a {
@@ -35,8 +35,8 @@ a:active {
     font-size: 15pt;
     margin-top: 90px;
     margin-right: 15px;
-    background-color: rgba(9, 118, 25, 0.5);
 }
+
 .nav-link {
     padding: 0px 8px;
 }
@@ -69,7 +69,7 @@ header {
 
 p {
     font-size: 14pt;
-    line-height: 1.1;
+    line-height: 2px;
     margin-left: 10px;
     margin-right: 10px;
     text-indent: 50px;
