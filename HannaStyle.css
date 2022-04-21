@@ -61,6 +61,7 @@ nav,.headicon {
     img, icon {
     height: 50px;
     background-color: white;
+    border-radius:35%;
 }
 
 main {
