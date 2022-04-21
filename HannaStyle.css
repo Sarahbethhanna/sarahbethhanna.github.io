@@ -55,7 +55,7 @@ nav,.headicon {
     text-decoration: underline;
 }
 
-.icon, img {
+    img {
     height: 50px;
     background-color: white;
 }
