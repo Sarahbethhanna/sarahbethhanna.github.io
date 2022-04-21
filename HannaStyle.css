@@ -49,13 +49,16 @@ a:active {
 nav,.headicon {
     display: absolute;
     right: 0px;
-    padding-top: 3px;
+    padding-top: 3px;}
+
+.headicon {
+    max-width: 15%}
 
 .current {
     text-decoration: underline;
 }
 
-    img {
+    img, icon {
     height: 50px;
     background-color: white;
 }
