@@ -7,7 +7,7 @@ nav {
     width: 100%;
     box-sizing: border-box;
     background-color: #000000;
-    height: 175px;
+    height: 150px;
 }
 
 a {
@@ -55,6 +55,10 @@ nav,.headicon {
     height: 50px;
     background-color: white;
 }
+
+main {
+    position: relative;
+    top: 150px;}
 
 
 /* 2. header styles
