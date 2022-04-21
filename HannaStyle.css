@@ -51,15 +51,12 @@ nav,.headicon {
     right: 0px;
     padding-top: 3px;}
 
-.headicon {
-    max-width: 15%}
-
 .current {
     text-decoration: underline;
 }
 
     img, icon {
-    height: 50px;
+    height: 45px;
     background-color: white;
     border-radius:35%;
 }
