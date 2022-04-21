@@ -36,7 +36,7 @@ a:active {
     width: 85%;
     text-align: right;
     font-size: 15pt;
-    margin-top: 110px;
+    margin-top: 90px;
     margin-right: 15px;
 }
 .nav-link {
@@ -46,7 +46,7 @@ a:active {
 nav,.headicon {
     display: absolute;
     right: 0px;
-    padding-top: 15px;
+    padding-top: 10px;
 }
 
 .current {
