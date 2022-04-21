@@ -28,6 +28,7 @@ a:active {
    float: left;
    padding-left: 15px;
    border-radius: 30%;
+   background-color: black;
 }
 
 .nav-list {
@@ -53,7 +54,7 @@ nav,.headicon {
     text-decoration: underline;
 }
 
-.icon {
+.icon, img {
     height: 50px;
     background-color: white;
 }
