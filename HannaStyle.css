@@ -8,7 +8,7 @@ nav {
     box-sizing: border-box;
     background-color: #000000;
     height: 150px;
-    border-bottom: 2px solid #faed27;
+    border-bottom: 2px solid #FADA28;
 }
 
 a {
@@ -38,7 +38,7 @@ a:active {
     font-size: 15pt;
     margin-top: 115px;
     margin-right: 15px;
-    background-color: rgba(9, 118, 25, 0.85);
+    background-color: #9ED687);
     border-radius: 45% 0 0 0;
 }
 
@@ -164,9 +164,9 @@ table{
 footer{
     text-align: center;
     height: 100px;
-    background-color: rgba(9, 118, 25, 0.5);
+    background-color: #9ED687;
     font-size: 20pt;
-    border-top: 2pt solid #faed27;
+    border-top: 2pt solid #FADA28;
 }
 
 h6 {
