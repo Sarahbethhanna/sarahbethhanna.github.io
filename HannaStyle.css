@@ -29,7 +29,7 @@ a:active {
    float: left;
    padding-left: 15px;
    border-radius: 30%;
-   background-color: black;
+   background: none;
 }
 
 .nav-list {
@@ -58,6 +58,7 @@ nav,.headicon {
 .icon, img {
     height: 50px;
     background-color: white;
+    border-radius: 30%;
 }
 
 main {
