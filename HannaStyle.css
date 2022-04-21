@@ -26,7 +26,7 @@ a:active {
 .photo {
    height: 150px;
    float: left;
-    padding-left: 15px;
+   padding-left: 15px;
    border-radius: 30%;
 }
 
@@ -53,7 +53,7 @@ nav,.headicon {
     text-decoration: underline;
 }
 
-.icon,img {
+.icon {
     height: 50px;
     background-color: white;
 }
